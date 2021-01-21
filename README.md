@@ -1,1 +1,3 @@
 # UngenicktServerLauncher
+
+Ziehe bitte denn Ordner ServerLauncher auf deinem Desktop danach öffnest du ihn und Startest die Datei FiveMServerlauncher.exe bitte lasse die Datein Newtonsoft.Json.dll und Newtonsoft.Json.xml in dem Ordner! Wenn du nun in der Exe bist siehst du die Verbundenen Spieler und kannst unserem Discord oder Teamspeak Server beitreten, Sollte oben Offline stehen sind unsere Server gerade Offline. SOllte jedoch Online dort stehen kannst du auf Connect klicken und es startet sich FiveM bitte beachte das du Steam offen haben musst. Solltest du es nicht offnen haben kriegst du eine Fehlermeldung wenn du auf Connect klickst!
